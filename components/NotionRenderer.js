@@ -127,11 +127,11 @@ export default function NotionRenderer (props) {
   return (
     <>
       <style jsx global>
-        {`
+        {/* {`
         .notion {
           --notion-font: ${font};
         }
-        `}
+        `} */}
       </style>
       <Renderer
         components={components}
