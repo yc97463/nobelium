@@ -110,7 +110,7 @@ export default function NotionRenderer (props) {
 
   const font = {
     'sans-serif': FONTS_SANS,
-    // 'serif': FONTS_SERIF
+    'serif': FONTS_SERIF
   }[config.font]
 
   // Mark block types to be custom rendered by appending a suffix
