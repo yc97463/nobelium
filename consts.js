@@ -1,5 +1,6 @@
 exports.FONTS_SANS = [
   '"Space Grotesk"',
+  '"Noto Sans TC"',
   '"IBM Plex Sans"',
   'ui-sans-serif',
   'system-ui',
