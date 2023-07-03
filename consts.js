@@ -28,6 +28,7 @@ exports.FONTS_SANS = [
   'sans-serif'
 ]
 exports.FONTS_SERIF = [
+  '"Noto Serif TC"',
   '"Source Serif"',
   'ui-serif',
   'Georgia',
