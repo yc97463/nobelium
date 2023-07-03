@@ -1,7 +1,7 @@
 const BLOG = {
   title: 'YC Photography',
   author: 'yc97463',
-  email: 'blog@imych.one',
+  email: 'hi@imych.one',
   link: 'https://blog.imych.one',
   description: '願以照片攝下生活，一場人生中的旅行，從此展開。',
   lang: 'zh-TW', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
@@ -18,7 +18,7 @@ const BLOG = {
   showArchive: true,
   autoCollapsedNavBar: false, // The automatically collapsed navigation bar
   ogImageGenerateURL: 'https://og-image-craigary.vercel.app', // The link to generate OG image, don't end with a slash
-  socialLink: 'https://twitter.com/yc97463',
+  socialLink: 'https://imych.one/',
   seo: {
     keywords: ['Blog', 'Photography', 'Coding'],
     // googleSiteVerification: '' // Remove the value or replace it with your own google site verification code
