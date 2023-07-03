@@ -126,13 +126,13 @@ export default function NotionRenderer (props) {
 
   return (
     <>
-      {/* <style jsx global>
+      <style jsx global>
         {`
         .notion {
           --notion-font: ${font};
         }
         `}
-      </style> */}
+      </style>
       <Renderer
         components={components}
         mapPageUrl={mapPageUrl}
